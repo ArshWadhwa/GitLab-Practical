@@ -2,5 +2,5 @@
 # My Project
 
 
-### 📌 Project Description  
+### Project Description  
 This is my project
